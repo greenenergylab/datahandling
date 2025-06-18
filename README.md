@@ -1,5 +1,7 @@
 # Multi-Datensatz Messdaten-Eingabe
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greenenergylab/datahandling/HEAD?urlpath=%2Fdoc%2Ftree%2Fdata_import.ipynb)
+
 Eine interaktive Jupyter-Notebook-Anwendung zur Erfassung und Verwaltung von Messdaten mit mehreren Datensätzen.
 
 ## Features
